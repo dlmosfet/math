@@ -5,5 +5,5 @@
 - (step 4)判斷是否為齊性
 - (step 5)根據情形作運算
 - 以下為一階常微分方程範例
+-第一個為
 $\left (\frac{\partial y}{\partial x}\right) \= \left( 7x^2+1\right)$
-$$\left (\frac{\partial y}{\partial x}\right) \= \left( 7x^2+1\right)$$
