@@ -7,4 +7,4 @@
 - 以下為一階常微分方程範例
 - 第一個為
 $\frac{dy}{dx}$
-$\left (\frac (dy)(dx) \right) \= \left( 7x^2+1 \over 2\right)$
+$\= \left( 7x^2+1 \over 2\right)$
