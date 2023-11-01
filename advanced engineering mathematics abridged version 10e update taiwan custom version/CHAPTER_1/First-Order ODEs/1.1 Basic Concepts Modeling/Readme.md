@@ -8,3 +8,7 @@
 - 第一個為
 $\frac{dy}{dx}$
 $\= \left( 7x^2+1 \over 2\right)$
+
+
+$$\frac{dy}{dx}$$
+$$\= \left( 7x^2+1 \over 2\right)$$
